@@ -4,11 +4,12 @@
   },
   "vsl": {
     "clickUrl": "https://ih.mavquim.online/click",
-    "playerId": "vid-6941aa6e33e6f31e497d1433",
-    "playerScript": "https://scripts.converteai.net/0c720c90-e7e2-43bb-bf68-a9f95307d607/players/6941aa6e33e6f31e497d1433/v4/player.js",
+    "playerId": "vid-697e73ce108f9afb7785427c",
+    "playerScript": "https://scripts.converteai.net/0c720c90-e7e2-43bb-bf68-a9f95307d607/players/697e73ce108f9afb7785427c/v4/player.js",
     "smartPlayerScript": "https://scripts.converteai.net/lib/js/smartplayer-wc/v4/smartplayer.js"
   },
   "cta": {
     "delay": 1671000
   }
 }
+
